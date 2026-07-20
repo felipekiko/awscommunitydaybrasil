@@ -20,6 +20,7 @@ import rafaelPhoto from "./assets/rafael-fernandes.jpg";
 import veronicaPhoto from "./assets/veronica-torres.jpg";
 
 import darkoPhoto from "./assets/speakers/darko-mesaros.jpg";
+import pallaPhoto from "./assets/speakers/palla.jpg";
 import arthurPhoto from "./assets/speakers/arthur-nycael.jpg";
 import danPhoto from "./assets/speakers/dan-rezende.jpg";
 import laysPhoto from "./assets/speakers/lays-rodrigues.jpg";
@@ -58,6 +59,7 @@ const photoMap: Record<string, string> = {
 
 const speakerPhotoMap: Record<string, string> = {
   "darko-mesaros.jpg": darkoPhoto,
+  "palla.jpg": pallaPhoto,
   "arthur-nycael.jpg": arthurPhoto,
   "dan-rezende.jpg": danPhoto,
   "lays-rodrigues.jpg": laysPhoto,

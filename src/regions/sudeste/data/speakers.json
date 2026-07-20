@@ -12,6 +12,18 @@
         }
     },
     {
+        "name": "Marcelo Palladino",
+        "photo": "palla.jpg",
+        "title": "Diretor AI & Modernization",
+        "company": "Dati",
+        "talk": "Liderar na era da IA: o que um modelo de IA não entrega",
+        "bio": "Marcelo Palladino é Diretor de AI & Modernization na DATI. Tem mais de três décadas de atuação na indústria de software, atuando como desenvolvedor, arquiteto e líder técnico em dezenas de empresas, com passagens pela AWS e pelo Nubank. Seu trabalho hoje é conectar pessoas e organizações à inovação real em IA e nuvem, arquitetura de software moderna, boas práticas de engenharia de software e adoção que funciona em larga escala.",
+        "keynote": true,
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/mfpalladino/"
+        }
+    },
+    {
         "name": "Lays Rodrigues",
         "photo": "lays-rodrigues.jpg",
         "title": "Senior Software Engineer",
